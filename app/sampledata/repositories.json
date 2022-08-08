@@ -1,124 +1,64 @@
 {
   "data": [
     {
-      "id": 81223601,
-      "name": "android-DocumentCentricApps",
+      "id": 510925409,
+      "name": "DIO-desafio-github-introducao",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "ThiagoMip",
+        "avatar_url": "https://avatars.githubusercontent.com/u/36107872?v=4"
       },
       "stargazers_count": 0,
-      "language": "Java",
-      "html_url": "https://github.com/EzequielMessore/android-DocumentCentricApps",
+      "language": "null",
+      "html_url": "https://github.com/ThiagoMip/DIO-desafio-github-introducao",
       "description": "description"
     },
     {
-      "id": 178429138,
-      "name": "android-guidelines",
+      "id": 521088987,
+      "name": "kotlin-api",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "ThiagoMip",
+        "avatar_url": "https://avatars.githubusercontent.com/u/36107872?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/android-guidelines",
-      "description": "Architecture and code guidelines we use at ribot when developing for Android",
       "stargazers_count": 0,
-      "language": "guideline"
+      "language": "Kotlin",
+      "html_url": "https://github.com/ThiagoMip/kotlin-api",
+      "description": "description"
     },
     {
-      "id": 183915325,
-      "name": "android-testing",
+      "id": 518668956,
+      "name": "kotlin-inicio",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "ThiagoMip",
+        "avatar_url": "https://avatars.githubusercontent.com/u/36107872?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/android-testing",
-      "description": "A collection of samples demonstrating different frameworks and techniques for automated testing",
-      "stargazers_count": 1,
-      "language": "Java"
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/ThiagoMip/kotlin-inicio",
+      "description": "description"
     },
     {
-      "id": 378749135,
-      "name": "app-repositories",
+      "id": 522345940,
+      "name": "matches-simulator-api",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "ThiagoMip",
+        "avatar_url": "https://avatars.githubusercontent.com/u/36107872?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/app-repositories",
-      "description": "empty description",
-      "stargazers_count": 2,
-      "language": "Kotlin"
+      "stargazers_count": 0,
+      "language": "null",
+      "html_url": "https://github.com/ThiagoMip/matches-simulator-api",
+      "description": "description"
     },
     {
-      "id": 63367755,
-      "name": "avaliacao-ios",
+      "id": 521747221,
+      "name": "mathces-simulator-app",
       "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+        "login": "ThiagoMip",
+        "avatar_url": "https://avatars.githubusercontent.com/u/36107872?v=4"
       },
-      "html_url": "https://github.com/EzequielMessore/avaliacao-ios",
-      "description": "empty description",
-      "stargazers_count": 3,
-      "language": "Objective-C"
-    },
-    {
-      "id": 63448974,
-      "name": "avaliacao-ios-manual",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/avaliacao-ios-manual",
-      "description": "empty description",
-      "stargazers_count": 7,
-      "language": "Objective-C"
-    },
-    {
-      "id": 263680765,
-      "name": "base-redcode",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/base-redcode",
-      "description": "empty description",
-      "stargazers_count": 1,
-      "language": "Empty"
-    },
-    {
-      "id": 183948239,
-      "name": "BaseJetpack",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/BaseJetpack",
-      "description": "Examples with Jetpack components",
-      "stargazers_count": 2,
-      "language": "Kotlin"
-    },
-    {
-      "id": 265040807,
-      "name": "Chuck-Norris-Facts",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/Chuck-Norris-Facts",
-      "description": "An Android client for the Chuck Norris facts API",
-      "stargazers_count": 5,
-      "language": "Kotlin"
-    },
-    {
-      "id": 369822554,
-      "name": "coin-converter",
-      "owner": {
-        "login": "EzequielMessore",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
-      },
-      "html_url": "https://github.com/EzequielMessore/coin-converter",
-      "description": "empty description",
-      "stargazers_count": 1,
-      "language": "Kotlin"
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/ThiagoMip/mathces-simulator-app",
+      "description": "description"
     }
   ]
 }
